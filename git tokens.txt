@@ -1,0 +1,20 @@
+{
+  "github_token_1": "ghp_ABCDEFGHIJKLMNOPQRSTUVWX1234567890ABCD",
+  "some_data": "This is just some random data",
+  "github_token_2": "ghp_1234567890ABCDEFGHIJKLMNOPQRSTUVWXZYZ",
+  "not_a_token": "ghp_but_not_long_enough",
+  "github_token_3": "ghp_XYZABCDEFGHIJKLMNO9876543210PQRSTUV",
+  "random_string": "randomghp_not_a_tokenatall",
+  "github_token_4": "ghp_MNOPQRSTUVWXYZABCDEFGHIJ1234567890KLM"
+}
+{
+  "Access_Key": "AKIAIOSFODNN7EXAMPLE",
+  "API_Token": "tGzv3JOkF0XG5Qx2TlKW",
+  "API_Secret": "abcdefgh12345678",
+  "API_EncryptionKey": "1234abcd5678efgh",
+  "Consumer_Key": "CONSUMERKEY123456",
+  "Application_key": "APPLKEY0987654321",
+  "not_a_key": "some_other_value",
+  "AccessKey ID": "AKIAI44QH8DHBEXAMPLE",
+  "API_Encryption_Secret": "5678ijkl9012mnop"
+}
