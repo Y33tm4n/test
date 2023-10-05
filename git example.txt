@@ -1,0 +1,12 @@
+{
+  "repos": [
+    {
+      "id": 1,
+      "name": "example-repo",
+      "full_name": "user/example-repo",
+      "private": false
+	  "user": bigid
+	  "password": password
+    }
+  ]
+}
