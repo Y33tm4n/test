@@ -1,11 +1,6 @@
 {
-  "Access_Key": "AKIAIOSFODNN7EXAMPLE",
-  "API_Token": "tGzv3JOkF0XG5Qx2TlKW",
-  "API_Secret": "abcdefgh12345678",
-  "API_EncryptionKey": "1234abcd5678efgh",
-  "Consumer_Key": "CONSUMERKEY123456",
-  "Application_key": "APPLKEY0987654321",
+ 
+
   "not_a_key": "some_other_value",
-  "AccessKey ID": "AKIAI44QH8DHBEXAMPLE",
-  "API_Encryption_Secret": "5678ijkl9012mnop"
+
 }
